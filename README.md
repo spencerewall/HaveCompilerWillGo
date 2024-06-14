@@ -12,4 +12,5 @@ This repo is a space for me to learn about the go language. From basic syntax th
 - [ ] Learn about packing for distribution
 
 ## Some tutorial links to try as we GO ;-)
+- https://go.dev/doc/code
 - https://github.com/karanpratapsingh/learn-go - seems solid at first glance
